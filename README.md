@@ -1,24 +1,19 @@
 # Diwali Sales Analysis 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Data Source](#data-source)
-3. [Objective](#objective)
-4. [Tools and Technologies Used](#tools-and-technologies-used)
-5. [Process](#process)
-6. [Key Findings](#key-findings)
-7. [Output Dashboard](#output-dashboard)
+2. [Objective](#objective)
+3. [Data Source](#data-source)
+4. [Dashboard Report](#dashboard)
+5. [Tools and Technologies Used](#tools-and-technologies-used)
+6. [Project workflow](#workflow)
+7. [Key Findings](#key-findings)
+
 
 
 ---
 
 ## Project Overview
 This project focuses on analyzing the Diwali Sales Dataset to uncover actionable insights about customer demographics, sales trends, and regional revenue distribution. Using Tableau for interactive data visualization, this project highlights the sales performance across various categories, age groups, occupations, and regions.
-
----
-
-## Data Source
-The dataset used in this project is available on Kaggle:  
-[Diwali Sales Dataset](https://www.kaggle.com/datasets/bishtudas/diwali-sales-dataset?select=Diwali+Sales+Data.csv)
 
 ---
 
@@ -30,6 +25,18 @@ The main goal of this project is to visualize and analyze the Diwali sales data 
 
 ---
 
+## Data Source
+The dataset used in this project is available on Kaggle:  
+[Diwali Sales Dataset](https://www.kaggle.com/datasets/bishtudas/diwali-sales-dataset?select=Diwali+Sales+Data.csv)
+
+---
+
+## Dashboard
+Explore the interactive Diwali sales dashboard on Tableau: 
+[Diwali Sales Dashboard](https://public.tableau.com/app/profile/snehith.reddy.kathi/viz/diwalisalesdashboard/Dashboard2)
+
+---
+
 ## Tools and Technologies Used
 - **Data Cleaning & Preparation**: Python (pandas)
 - **Data Visualization**: Tableau
@@ -37,7 +44,7 @@ The main goal of this project is to visualize and analyze the Diwali sales data 
 
 ---
 
-## Process
+## Workflow
 1. **Data Exploration and Preparation**:  
    - Monitoring missing and inconsistent data values using Python(pandas).  
    - Processed the dataset for compatibility with Tableau.  
@@ -77,13 +84,6 @@ The main goal of this project is to visualize and analyze the Diwali sales data 
    - **Clothing & Apparel** topped in terms of order volume with **6,634 orders**.
 
 ---
-
-## Output Dashboard
-The interactive Tableau dashboards can be explored using the following link:  
-[Diwali Sales Dashboard](https://public.tableau.com/app/profile/snehith.reddy.kathi/viz/diwalisalesdashboard/Dashboard2)
-
-Alternatively, refer to the images below for a snapshot of the dashboards:  
-
 
 --- 
 ## Acknowledgments
